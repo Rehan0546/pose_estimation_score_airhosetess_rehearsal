@@ -1,0 +1,4 @@
+train: Dataset/images/train
+val:   Dataset/images/val
+nc : 4
+names:  ['person','vehicle','with_mask','without_mask']
